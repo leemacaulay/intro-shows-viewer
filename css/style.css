@@ -78,6 +78,7 @@ h1 {
 
 .link-item img:hover {
     transform:scale(2);
+    transform-origin: bottom center;
 }
 
 .img-wrapper {
